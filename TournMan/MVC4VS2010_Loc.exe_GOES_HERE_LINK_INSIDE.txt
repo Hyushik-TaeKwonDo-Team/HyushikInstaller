@@ -1,0 +1,1 @@
+http://www.microsoft.com/web/handlers/webpi.ashx?command=getinstallerredirect&appid=MVC4VS2010_Loc
